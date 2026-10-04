@@ -1,0 +1,11 @@
+Operator                       CV of energy across rotations
+------------------------------------------------------------
+GL-FracSobel(nu=0.8)                                  0.0787
+DF3SOp(alpha=1,beta=0.5)                              0.0685
+Riesz(alpha=1.0)                                      0.1172
+
+Raw per-angle total energies:
+Operator                             0deg        15deg        30deg        45deg        60deg        75deg        90deg
+GL-FracSobel(nu=0.8)              17241.7      14299.1      14698.6      14883.8      15288.8      15170.2      17740.7
+DF3SOp(alpha=1,beta=0.5)           4424.1       3619.9       3900.5       4091.0       4142.0       3837.4       4424.1
+Riesz(alpha=1.0)                    237.0        173.1        187.5        216.1        214.2        181.6        237.0

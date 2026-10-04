@@ -1,0 +1,11 @@
+Operator                       CV of edge-local energy across angles
+----------------------------------------------------------------------
+GL-FracSobel(nu=0.8)                                          0.0573
+DF3SOp(alpha=1,beta=0.5)                                      0.0654
+Riesz(alpha=1.0)                                              0.2164
+
+Raw per-angle edge-local energies:
+Operator                             0deg        15deg        30deg        45deg        60deg        75deg        90deg
+GL-FracSobel(nu=0.8)               2179.9       2131.8       2060.8       2111.3       2221.5       2309.4       2462.0
+DF3SOp(alpha=1,beta=0.5)            768.0        768.0        792.0        922.0        792.0        768.0        768.0
+Riesz(alpha=1.0)                     32.9         41.9         51.5         62.6         51.5         41.9         34.3
